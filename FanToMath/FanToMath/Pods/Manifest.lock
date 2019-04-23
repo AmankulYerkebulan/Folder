@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.8.0)
+  - ExpandableCell (1.2.8)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Kingfisher (5.0.0)
+  - SnapKit (4.0.1)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ExpandableCell
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - SnapKit (~> 4.0.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ExpandableCell
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  ExpandableCell: a79824c52c1a30218aafcbfcdc42a0c3585a3b77
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Kingfisher: 2b0dd651e4fe5a07305b8242fde56f8e2d410f58
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 483a1a17ed2751e5ca1ebc2df6b7e9d40125c671
+
+COCOAPODS: 1.5.3
